@@ -14,5 +14,4 @@ percentmale_str = str(percentmale_int)+"%"
 percentfemale_float = (females_int/students_tot)*100
 percentfemale_int = int(percentfemale_float)
 percentfemale_str = str(percentfemale_int)+"%"
-print ("Percent males:", percentmale_str)
-print ("Percent females:", percentfemale_str)
+print ("Percent males:", percentmale_str". Percent females:", percentfemale_str)
